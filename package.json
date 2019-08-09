@@ -1,0 +1,15 @@
+{
+  "name": "think-in-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "^4.39.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.6"
+  }
+}
